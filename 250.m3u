@@ -266,8 +266,6 @@ https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
 https://flussonic.mkpnet.ru/tv-4a4cb3e0aac082c9/video.m3u8
 #EXTINF:-1 group-title='Музыка',Шансон ТВ
 https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
-#EXTINF: -1 group-title='Музыка',Шансон ТВ
-http://185.46.16.239:8000/Shanson
 #EXTINF: -1 group-title='Музыка',Новое Радио Хит
 http://live.novoeradio.by:8081/live/novoeradio_1080p/chunks.m3u8
 #EXTINF:-1 group-title='Музыка',Страна FM
@@ -294,16 +292,12 @@ https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
 #EXTINF:-1 group-title='Разные',Большая азия
 https://flussonic.mkpnet.ru/tv-d5d21f78cdf69c47/video.m3u8
-#EXTINF:-1 group-title='Разные',ЖИВИ!
-https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
 #EXTINF:-1 group-title='Разные',Здоровое ТВ
 https://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8
 #EXTINF:-1 group-title='Разные',Моя планета
 https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
 #EXTINF:-1 group-title='Разные',Наша тема
 https://flussonic.mkpnet.ru/tv-c922a9201f5073f8/video.m3u8
-#EXTINF:-1 group-title='Разные',Точка отрыва
-https://flussonic.mkpnet.ru/tv-025f6f42ae5bcfc6/video.m3u8
 #EXTINF:-1 group-title='Разные',Авто24
 https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
 #EXTINF:-1 group-title='Разные',Диалоги о рыбалке
@@ -344,16 +338,8 @@ https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
 https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
 #EXTINF:-1 group-title='Кино',Красная Линия
 https://flussonic.mkpnet.ru/tv-3c6edc849aea7c07/video.m3u8
-#EXTINF:-1 group-title='Кино',.Black
-https://flussonic.mkpnet.ru/tv-5aad8f3268a56002/video.m3u8
 #EXTINF:-1 group-title='Кино',Sci Fi
 https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
-#EXTINF:-1 group-title='Кино',КиноАрм
-http://185.57.68.33:8091/255/index.m3u8
-#EXTINF:-1 group-title='Кино', Легенда
-https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8
-#EXTINF:-1 group-title='Кино' ,Еврокино
-http://178.134.1.158:8081/eurokino/index.m3u8
 #EXTINF:-1 group-title='Кино' ,Мосфильм. Золотая коллекция
 http://178.134.1.158:8081/mosfilm/index.m3u8
 #EXTINF:-1 group-title='Кино',Советское кино
